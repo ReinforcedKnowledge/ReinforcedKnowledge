@@ -11,7 +11,8 @@
       <p>🎯 My goal is to contribute meaningfully and help others.</p>
       <p>✨ I love to share what I learn on my blog <a href="https://reinforcedknowledge.com">reinforcedknowledge.com</a>.</p>
       <p>📫 How to reach me: reinforced.knowledge@gmail.com</p>
-      <p><img src="https://img.shields.io/badge/Linux-%23212024?logo=linux" alt="Linux logo"/><img src="https://img.shields.io/badge/Python-%23e7e7e7?logo=python" alt="Python logo"/><img src="https://img.shields.io/badge/C%2B%2B-%23a2fffe?logo=cplusplus" alt="C++ logo"/><img src="https://img.shields.io/badge/Rust-%23de2e70?logo=rust" alt="Rust logo"/>
+      <p></p>
+      <p><img src="https://img.shields.io/badge/Linux-%23212024?logo=linux" alt="Linux logo" width="200" height="200"/><img src="https://img.shields.io/badge/Python-%23e7e7e7?logo=python" alt="Python logo"/><img src="https://img.shields.io/badge/C%2B%2B-%23a2fffe?logo=cplusplus" alt="C++ logo"/><img src="https://img.shields.io/badge/Rust-%23de2e70?logo=rust" alt="Rust logo"/>
 </p>
     </td>
     <!-- Second Column -->
