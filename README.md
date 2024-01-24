@@ -2,7 +2,7 @@
 
 #### I'm a machine learning engineer
 
-- 🔭 I am currently working on [https://github.com/ReinforcedKnowledge/TPTea](TPTea), [https://github.com/ReinforcedKnowledge/deep-learning-from-scratch](deep-learning-from-scratch) and [https://github.com/ReinforcedKnowledge/blip2.cpp](blip2.cpp)
+- 🔭 I am currently working on [TPTea](https://github.com/ReinforcedKnowledge/TPTea), [deep-learning-from-scratch](https://github.com/ReinforcedKnowledge/deep-learning-from-scratch) and [blip2.cpp](https://github.com/ReinforcedKnowledge/blip2.cpp)
 - 🌱 I am currently learning **Rust** and also delving into the **Open Source** community
 - 🎯 My goal is to contribute meaningfully and help others
 - ✨ I love to share what I learn on my blog [https://reinforcedknowledge.com](reinforcedknowledge.com)
