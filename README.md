@@ -15,3 +15,5 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-%23a2fffe?style=for-the-badge&logo=cplusplus)
 ![Docker](https://img.shields.io/badge/Docker-%23450b52?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-%23d1e7e8?style=for-the-badge&logo=git)
+
+[![ReinforcedKnowledge's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReinforcedKnowledge)](https://github.com/ReinforcedKnowledge/github-readme-stats)
