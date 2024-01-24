@@ -2,7 +2,7 @@
 
 ### Machine learning engineer
 
-<table>
+<table style="width: 100%;">
   <tr>
     <!-- First Column -->
     <td valign="top" width="50%" style="text-align: center;">
