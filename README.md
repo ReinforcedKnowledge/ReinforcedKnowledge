@@ -12,8 +12,6 @@
       <p>✨ I love to share what I learn on my blog <a href="https://reinforcedknowledge.com">reinforcedknowledge.com</a>.</p>
       <p>📫 How to reach me: reinforced.knowledge@gmail.com</p>
       <p></p>
-      <p></p>
-      <p></p>
       <p><img src="https://img.shields.io/badge/Linux-%23212024?logo=linux" alt="Linux logo" width="100" height="100"/><img src="https://img.shields.io/badge/Python-%23e7e7e7?logo=python" alt="Python logo" width="120" height="100"/><img src="https://img.shields.io/badge/C%2B%2B-%23a2fffe?logo=cplusplus" alt="C++ logo" width="100" height="100"/><img src="https://img.shields.io/badge/Rust-%23de2e70?logo=rust" alt="Rust logo" width="100" height="100"/>
 </p>
     </td>
