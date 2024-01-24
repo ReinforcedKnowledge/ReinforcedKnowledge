@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+### Machine learning engineer
+
 <table>
   <tr>
     <!-- First Column -->
     <td valign="top" width="50%">
-      <p>🔭 I am currently a **Machine Learning Engineer**.</p>
-      <p>🌱 I am currently learning **Rust** and also delving into the **Open Source** community.</p>
+      <p>🔭 I am currently working on <a href="https://github.com/ReinforcedKnowledge/TPTea">TPTea</a>, <a href="https://github.com/ReinforcedKnowledge/deep-learning-from-scratch">deep-learning-from-scratch</a> and <a href="https://github.com/ReinforcedKnowledge/blip2.cpp">blip2.cpp</a>.</p>
+      <p>🌱 I am currently learning <Strong>Rust</Strong> and also delving into the <Strong>Open Source</Strong> community.</p>
       <p>🎯 My goal is to contribute meaningfully and help others.</p>
       <p>✨ I love to share what I learn on my blog <a href="https://reinforcedknowledge.com">reinforcedknowledge.com</a>.</p>
       <p>📫 How to reach me: reinforced.knowledge@gmail.com</p>
