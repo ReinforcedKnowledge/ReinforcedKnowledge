@@ -2,7 +2,6 @@
 
 #### I'm a machine learning engineer
 
-- 🌱 I am learning more about transformers' related concepts by reading papers and trying to implement them in [TPTea](https://github.com/ReinforcedKnowledge/TPTea), it's also a way for me to learn best practices and standards for maintaining a good Python repository
 - 🎯 My goal is to contribute meaningfully and help others
 - ✨ I love to share what I learn on my blog [https://reinforcedknowledge.com](reinforcedknowledge.com)
 - 📫 How to reach me: reinforced.knowledge@gmail.com
